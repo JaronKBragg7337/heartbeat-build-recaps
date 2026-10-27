@@ -5,6 +5,10 @@
 ## In one line
 **Your home computer's whole job, in your pocket.** You can run AIs and systems on a computer at home and never need to be sitting at it.
 
+**It is not a replacement for any AI.** Claude Code, Codex and the rest keep working exactly as they do. The Control Room
+is the **unblocker**: when an AI hits a step only a human can do (a login, a key, a click on the screen), you clear it
+from your phone, wherever you are, and the AI keeps going.
+
 ## What it does today (all live on heartbeatobservatory.com, admin-only)
 | Tool | What it does |
 |---|---|
