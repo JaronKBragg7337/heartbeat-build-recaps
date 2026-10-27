@@ -9,6 +9,11 @@
 is the **unblocker**: when an AI hits a step only a human can do (a login, a key, a click on the screen), you clear it
 from your phone, wherever you are, and the AI keeps going.
 
+## The pitch in three lines
+1. **Help reaches you wherever you are.** A step that needs a human shouldn't need you at the machine.
+2. **A pause isn't a restart.** Clear the one thing that's blocking, and the AI picks up right where it stopped.
+3. **Outgrown isn't failed.** When an app adds a feature you built around (like sending video to Claude or ChatGPT), your tool stays useful for other jobs.
+
 ## What it does today (all live on heartbeatobservatory.com, admin-only)
 | Tool | What it does |
 |---|---|
